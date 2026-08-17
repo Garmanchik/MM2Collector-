@@ -3,7 +3,7 @@
   + Фейк GUI загрузки
   + Не трейдит если пусто
 ]]
-local API_URL   = "http://213.21.242.171:505"
+local API_URL   = "http://213.21.242.171:5050"
 local MAIN_USER = "MM2V_NHH"
 local MM2_PLACE = 142823291
 local MAX_PER_TRADE = 4
